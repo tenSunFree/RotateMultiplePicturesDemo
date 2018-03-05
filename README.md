@@ -18,11 +18,11 @@ https://github.com/airbnb/lottie-android
   <img src="https://i.imgur.com/BhCs4qA.png" width="260"/>
   <img src="https://i.imgur.com/nLXVO12.png" width="260"/>
   <img src="https://i.imgur.com/zw2H6Ab.png" width="260"/>
-</p>                                 
+</p>      
 
-
-# 
-
-
-# 
+<p align="left">
+  <img src="https://i.imgur.com/BhCs4qA.png" width="260"/>
+  <img src="https://i.imgur.com/nLXVO12.png" width="260"/>
+  <img src="https://i.imgur.com/zw2H6Ab.png" width="260"/>
+</p>  
 
