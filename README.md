@@ -15,14 +15,14 @@ https://github.com/airbnb/lottie-android
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/BhCs4qA.png" width="400"/>
+  <img src="https://i.imgur.com/BhCs4qA.png" width="500"/>
 </p>      
 
 <p align="left">
-  <img src="https://i.imgur.com/nLXVO12.png" width="400"/>
+  <img src="https://i.imgur.com/nLXVO12.png" width="500"/>
 </p>        
 
 <p align="left">
-  <img src="https://i.imgur.com/zw2H6Ab.png" width="400"/>
+  <img src="https://i.imgur.com/zw2H6Ab.png" width="500"/>
 </p>  
 
